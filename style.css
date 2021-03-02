@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #575757;
 }
 
 .container {
@@ -678,6 +678,10 @@ a {
 
 p {
     font-size: 11px;
+}
+
+.fs-lg {
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
@@ -707,6 +711,8 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    padding-right: 200px;
+    padding-left: 200px;
 }
 
 h3 {
@@ -714,6 +720,22 @@ h3 {
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.citation {
+    font-size: 20px;
+    font-style: italic;
+    padding-left: 60px;
+    padding-right: 60px;
+    margin: 0;
+}
+
+.citation-source {
+    color: #575757;
 }
 
 .med-width-whitespace {
@@ -739,6 +761,10 @@ h4 {
     color: #FFFFFF!important;
 }
 
+.black {
+    color: black;
+}
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -753,7 +779,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(80, 73, 55, 0.644);
     padding: 40px 40px 40px 40px;
 }
 
