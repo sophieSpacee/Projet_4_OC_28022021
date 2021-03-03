@@ -799,11 +799,7 @@ h4 {
 }
 
 .bgc-black {
-    text-shadow: #000000 1px 1px, #000000 -1px 1px, #000000 -1px -1px, #000000 1px -1px;
-
-Voilà
-
-+10 
+background-color: rgba(255, 255, 255, 0.5);
 }
 
 .bgc-dark-slate-blue {
@@ -818,9 +814,6 @@ Voilà
     color: #ffffff!important;
 }
 
-.tc-yellow {
-    color: #FFCB5C;
-}
 
 .tc-black {
 color: black;
