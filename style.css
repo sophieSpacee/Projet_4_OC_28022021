@@ -103,21 +103,21 @@ a:hover {
     color: rgba(133, 20, 20, 0.7);
 } */
 
-.d-bloc button:hover {
+/* .d-bloc button:hover {
     color: rgba(255, 255, 255, .9);
-}
-
+} */
+/* 
 .d-bloc .icon-round,
 .d-bloc .icon-square,
 .d-bloc .icon-rounded,
 .d-bloc .icon-semi-rounded-a,
 .d-bloc .icon-semi-rounded-b {
     border-color: rgba(255, 255, 255, .9);
-}
+} */
 
-.d-bloc .divider-h span {
+/* .d-bloc .divider-h span {
     border-color: rgba(255, 255, 255, .2);
-}
+} */
 
 .d-bloc .a-btn,
 .d-bloc .navbar a,
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgba(0, 0, 0, .8);
 }
 
 .d-bloc .a-btn:hover,
