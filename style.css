@@ -79,7 +79,7 @@ a:hover {
 .bg-t-edge {
     background: top no-repeat;
 }
-
+/* 
 .bloc-bg-texture::before {
     content: "";
     background-size: 2px 2px;
@@ -88,7 +88,7 @@ a:hover {
     bottom: 0;
     left: 0;
     right: 0;
-}
+} */
 
 /* .texture-paper::before {
     background: url("img/texture-paper.png");
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(0, 0, 0, .6);
 }
 
 .d-bloc .a-btn:hover,
@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, 1);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(80, 73, 55, 0.644);
+    background-color: rgba(80, 73, 55, 0.8);
     padding: 40px 40px 40px 40px;
 }
 
