@@ -24,20 +24,36 @@
     <link rel="stylesheet" type="text/css" href="./css/font-awesome.css" />
     <link rel="stylesheet" type="text/css" href="./css/et-line.css" />
 
-    <!-- mettre les versions minifier -->
-    <script src="./js/jquery-2.1.0.js" defer></script>
-    <script src="./js/bootstrap.js" defer></script>
-    <script src="./js/blocs.js" defer></script>
+    <script src="./js/jquery-2.1.0.js"></script>
+    <script src="./js/bootstrap.js"></script>
+    <script src="./js/blocs.js"></script>
     <script src="./js/jquery.touchSwipe.js" defer></script>
-    <script src="./js/gmaps.js" defer></script>
+    <script src="./js/gmaps.js"></script>
+    <script type="application/ld+json" defer>
+      {
+        "@context": "http://www.schema.org",
+        "@type": "ProfessionalService",
+        "name": "La chouette agence",
+        "url": "https://sophiespacee.github.io/SophieGauthier_4_28022021/index.html",
+        "logo": "https://sophiespacee.github.io/SophieGauthier_4_28022021/img/logo.png",
+        "description": "La Chouette agence est une agence de web design qui aide les entreprises à devenir attractives et visibles sur Internet. L'agence est basée à Lyon.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2 place Sathonay",
+          "addressLocality": "Lyon",
+          "postalCode": "69001",
+          "addressCountry": "France"
+        },
+        "hasMap": "https://www.google.com/maps/place/2+Place+Sathonay,+69001+Lyon/@45.7695241,4.8279786,17z/data=!3m1!4b1!4m5!3m4!1s0x47f4eb020f3664e9:0x13e3d71752922c1f!8m2!3d45.7695241!4d4.8301673",
+        "openingHours": "Mo, Tu, We, Th, Fr 09:00-18:00",
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "contactType": "contact@lachouetteagence.com"
+        }
+      }
+    </script>
 
     <title>La chouette agence : entreprise de web design à Lyon</title>
-    <!-- ajouter balise robots -->
-    <!-- ajouter balise canonic -->
-
-    <!-- Analytics -->
-    <!-- manque lien vers google analytics  -->
-    <!-- Analytics END -->
   </head>
   <body>
     <div class="page-container">
@@ -65,10 +81,6 @@
             </div>
             <div class="collapse navbar-collapse navbar-1 special-dropdown-nav">
               <ul class="site-navigation nav navbar-nav">
-                <!-- <li>
-						<a href="index.html">Accueil</a>
-					</li> -->
-
                 <li>
                   <a href="#services">Nos services</a>
                 </li>
@@ -102,10 +114,6 @@
                   La chouette agence, entreprise de web design à Lyon
                 </h1>
               </div>
-
-              <!-- <div class="text-center">
-					<a href="page2.html" class="btn btn-lg btn-clean btn-rd cta-hero btn-atomic-tangerine" id="cta-hero">Contact</a>
-				</div> -->
             </div>
           </div>
         </div>
@@ -331,7 +339,12 @@
             <div class="col-sm-12">
               <p class="text-center black">
                 La chouette agence - Agence web basée à Lyon.<br />
+                <br />
+                contact@lachouetteagence.com<br />2 place Sathonay 69001 Lyon<br />Ouvert
+                de 9h à 18h, du lundi au vendredi<br />
+                <br />
               </p>
+
               <div class="row row-no-gutters social-media">
                 <div class="col-sm-3">
                   <div class="text-center">
