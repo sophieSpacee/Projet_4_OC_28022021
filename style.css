@@ -718,6 +718,8 @@ h4 {
 
 .portfolio-thumb {
   margin-bottom: 24px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .portfolio-row {
@@ -994,6 +996,7 @@ h4 {
     width: 180px;
     height: 320px;
   }
+
 }
 
 @media (max-width: 400px) {
