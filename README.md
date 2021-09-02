@@ -1,4 +1,4 @@
-# SophieGauthier_4_28022021
+# Chouette -  Projet 4 of Web Developper course with OpenClassrooms
 
 This project is about improving SEO and accessibility on an existing website. 
 
