@@ -2,6 +2,22 @@
 
 This project is about improving SEO and accessibility on an existing website. 
 
+## Results: before and after 
+
+Before (existing website) and after (improvments and modifications I made)  
+  
+I used Lighthouse to assess performances, accessibility and SEO on both pages:  
+  
+![accessibility](/img/readme/access.png)
+![accessibility](/img/readme/access2.png)
+  
+  I also used GT metrix to focus more on performances and loading time
+    
+![accessibility](/img/readme/perf.png)
+
+
+
+
 ## Link to before and after websites
 
 Before I made any modification, here is what this website looked like : 
