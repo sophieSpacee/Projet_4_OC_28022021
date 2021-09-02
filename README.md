@@ -13,4 +13,4 @@ After that, I went through the Web Content Accessibility Guidelines, my goal was
 
 Here is what the website looks like after I made my changes : 
 
-https://sophiespacee.github.io/SophieGauthier_4_28022021/
+https://sophiespacee.github.io/Projet_4_OC_28022021/
