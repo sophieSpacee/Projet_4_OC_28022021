@@ -6,7 +6,7 @@ This project is about improving SEO and accessibility on an existing website.
 
 Before I made any modification, here is what this website looked like : 
 
-https://sophiespacee.github.io/chouette/
+https://sophiespacee.github.io/chouette_existing-website-to-improve/
 
 I made several changes to the code in order to improve its SEO.
 After that, I went through the Web Content Accessibility Guidelines, my goal was to meet WCAG 2.0 standards level AA.
